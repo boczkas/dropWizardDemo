@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.redhat.examples.dropwizard","l":"HolaDropwizardApplication"},{"p":"com.redhat.examples.dropwizard","l":"HolaDropwizardConfiguration"}]
